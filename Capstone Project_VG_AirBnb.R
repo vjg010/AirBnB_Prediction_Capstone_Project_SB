@@ -1,3 +1,5 @@
+# AirBnB data located in the weblink below: 
+# https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 getwd()
 setwd("/Users/vijaygopalakrishnan/R Programming/Capstone project")
 
